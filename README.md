@@ -1,4 +1,4 @@
-# HTML & CSS Practice Repository
+# HTML & CSS Practice
 
 This repository showcases my learning and practice journey in HTML and CSS. Feel free to explore, learn, and contribute!
 
